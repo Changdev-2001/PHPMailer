@@ -1,0 +1,23 @@
+# Ignore Composer's vendor directory
+/vendor/
+
+# Ignore environment configuration files
+.env
+.env.local
+
+# Ignore IDE/editor config files
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore zip or backup files
+*.zip
+*.tar
+*.tar.gz
+*.bak
